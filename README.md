@@ -1,6 +1,4 @@
-### Bem vindo 
-
-**7pedros/7pedros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem vindo 
 
 Here are some ideas to get you started:
 
